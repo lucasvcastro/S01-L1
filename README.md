@@ -1,6 +1,6 @@
-<h1 align="center"> 🧪 Laboratório de S01 💻 </h1>
+<h1> 🧪 Laboratório de S01 </h1>
 
-<p align="center">
+<p>
   Repositório dedicado ao armazenamento e organização dos relatórios, códigos e práticas desenvolvidas no laboratório da disciplina <b>S01 (Paradigmas da Programação)</b>.
 </p>
 
